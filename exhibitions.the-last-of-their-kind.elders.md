@@ -14,7 +14,7 @@ This story is about a disappearing stage of life, and death.
 
 Eucalyptus regnans trees live in Australia’s southern forests. Among frequent bushfires, they have evolved to die and grow quickly. In wet Tasmania the fires are rare. There, cool valleys are home to elders that live for hundreds of years. They are among the largest organisms on Earth. However, the climate is warming, and the forests are drying. The giants burn, fall, and die. Humans are not likely to ever see such trees again. The forest community will have no elders. See [[stories.uncertainty]]
 
-Large old trees are homes to many beings and hold many stories. We show topographies that create wet conditions, stands of giant trees, individual living and dead trees and their neighbours, bark, moss, lichen, epiphytes and animals that live within them. To trace this story, we use computational analysis and artificial intelligence to probe the data acquired by [[laser imaging|methods.surface-imaging]] and [[radiation|methods.tomography]].
+Large old trees are homes to many beings and hold many stories. We show topographies that create wet conditions, stands of giant trees, individual living and dead trees and their neighbours, bark, moss, lichen, epiphytes and animals that live within them. To trace this story, we use computational analysis and artificial intelligence to probe the data acquired by [[laser imaging|methods.surface-imaging]] and [[radiation|research.methods.tomography]].
 
 ![](assets/images/SIGGRAPH-Images/Last-Of-Their-Kind-004.png)
 

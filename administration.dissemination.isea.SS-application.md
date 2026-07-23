@@ -130,7 +130,7 @@ For more images see [[stories.uncertainty]] and [[stories.uniqueness]]
 
 ![[methods.surface-imaging]]
 
-![[methods.tomography]]
+![[research.methods.tomography]]
 
 ## Artist Bio (300 words)
 
